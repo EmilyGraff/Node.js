@@ -3,7 +3,7 @@ Node.js
 
 Node.js
   process.exit(1)
- })
+ ))
  
 -/* commander.js */
 -var commands = {
